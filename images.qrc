@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/sprites/background.jpg</file>
+        <file>assets/sprites/Blue.png</file>
+        <file>assets/sprites/cursor.png</file>
+        <file>assets/sprites/Green.png</file>
+        <file>assets/sprites/highlight.png</file>
+        <file>assets/sprites/overlay.png</file>
+        <file>assets/sprites/Purple.png</file>
+        <file>assets/sprites/Red.png</file>
+        <file>assets/sprites/Yellow.png</file>
+    </qresource>
+</RCC>
